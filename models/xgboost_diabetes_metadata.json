@@ -1,0 +1,15 @@
+{
+    "model": "XGBClassifier",
+    "best_params": {
+        "n_estimators": 200,
+        "learning_rate": 0.01,
+        "max_depth": 3,
+        "random_state": 42
+    },
+    "metrics": {
+        "accuracy": 0.8051948051948052,
+        "recall": 0.8051948051948052,
+        "precision": 0.8019114540853671,
+        "f1": 0.801148851148851
+    }
+}
